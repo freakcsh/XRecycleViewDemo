@@ -156,5 +156,8 @@ public class LinearLayoutActivity extends AppCompatActivity {
             }
         });
         mXRecyclerView.setAdapter(mAdapter);
+
+
+
     }
 }
